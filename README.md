@@ -76,7 +76,26 @@ Energy Production: Power plants using LPG as a fuel source can use maintenance a
 Construction Sites: Construction projects that use LPG for equipment or temporary heating can implement these systems to enhance safety during the construction process.
 Emergency Services: Fire stations and other emergency service providers may use LPG for various applications, and implementing these systems can help manage safety in such environments.
 
+**ADVANTAGES:**
+Safety Improvement: Early detection of leaks or other issues can prevent accidents and enhance overall safety.Automatic shut-off systems can be implemented to stop gas flow in case of a leak, minimizing potential hazards.
+Cost Savings: Regular maintenance can help identify and address small issues before they become major problems, potentially saving on repair costs.
+Compliance: Notification systems can help ensure compliance with safety regulations and standards, which is crucial in industries and residential areas where LPG is used.
+Efficiency: Regular maintenance can optimize the performance of LPG systems, leading to more efficient use of fuel and potentially reducing overall consumption.
+Remote Monitoring: Advanced notification systems may allow for remote monitoring, providing real-time updates on the status of LPG systems, which can be particularly beneficial for large-scale industrial setups.
+Environmental Impact: Proper maintenance can contribute to reducing the environmental impact by preventing leaks and minimizing emissions.
 
+**DISADVANTAGES:**
+Cost of Implementation: Installing and maintaining notification systems can be expensive, especially for small businesses or residential users.
+False Alarms: Overly sensitive systems may trigger false alarms, leading to unnecessary evacuations or disruptions.
+Complexity: Sophisticated notification systems can be complex, requiring specialized knowledge for installation and maintenance.
+Dependency on Technology: If the notification system relies heavily on technology, power, or a network connection, it may be susceptible to failures in case of power outages, technical glitches, or communication issues.
+Maintenance Costs: While maintenance can prevent major issues, it also comes with its own costs. Regular inspections and repairs can add up over time.
+Limited Applicability: In some cases, the benefits of advanced notification systems may not justify the costs, especially in smaller or less critical installations.
+
+**IMAGES OF THE PROJECT**
+![image](https://github.com/Mushfiqa12/IOT-based-LPG-gas-detection-and-notification/assets/149703236/e8c6e66f-d903-445a-bc3d-54be73ab8d89)
+
+![image](https://github.com/Mushfiqa12/IOT-based-LPG-gas-detection-and-notification/assets/149703236/604a54ea-43b2-421e-b913-daf659754a7e)
 
 
 
